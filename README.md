@@ -1,1 +1,2 @@
-"# Space Shooter . 2D shooter game developed with Unity" 
+# Space Shooter .
+# A 2D shooter game developed with Unity
